@@ -1,8 +1,8 @@
 # DInSAR Simulator
 
-These notebooks illustrate how to simulate synthetic interferograms for the study of surface deformations. The simulation relies on mimicking the scene that lead to those interferograms: a satellite passes over an area, sends a radar wave to the ground, and record the reflected signal. Each notebook details different features of the simulation process:
+These notebooks illustrate how to simulate synthetic interferograms for the study of surface deformations. The simulation relies on mimicking the scene that leads to those interferograms: a satellite passes over an area, sends a radar wave to the ground, and records the reflected signal. Each notebook details different features of the simulation process:
 
-- [DInSAR_Simulator_Deformation_Models.ipynb](https://github.com/MITHaystack/science-casestudies/blob/master/geo/insar/simulator/DInSAR_Simulator_Deformation_Models.ipynb) presents several analytical models to simulate surface deformation from given sources.
+- [DInSAR_Simulator_Deformation_Models.ipynb](https://github.com/MITHaystack/science-casestudies/blob/master/geo/insar/simulator/DInSAR_Simulator_Deformation_Models.ipynb) presents several analytical models to simulate the surface deformation due to a given source.
 
 - [DInSAR_Simulator_Topography.ipynb](https://github.com/MITHaystack/science-casestudies/blob/master/geo/insar/simulator/DInSAR_Simulator_Topography.ipynb) presents several ways to introduce the topographic component of an interferogram.
 
