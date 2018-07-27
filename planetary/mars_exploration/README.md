@@ -9,7 +9,7 @@ We base our analysis on a rover similar to NASA's Mars 2020 rover at 20 pixels p
 
 We welcome any further use of or contribution to this project. Any question or comment can be addressed to Guillaume Rongier ([grongier@mit.edu](mailto:grongier@mit.edu)) or Victor Pankratius ([pankrat@mit.edu](mailto:pankrat@mit.edu)).
 
-&#9888; The notebooks depend on the open-source Python package [Scikit Discovery](https://github.com/MITHaystack/scikit-discovery) developed at MIT Haystack Observatory. The code developed specifically for this work is more of an unoptimized prototype, and running all the notebooks takes a long time. Some of the input data are available in the folder *CaseStudyMars_Data*, the others must be downloaded as explained in the notebooks.
+&#9888; The notebooks rely on the open-source Python package [Scikit Discovery](https://github.com/MITHaystack/scikit-discovery) developed at MIT Haystack Observatory. The code developed specifically for this work is more of an unoptimized prototype, and running all the notebooks takes a long time. Some of the input data are available in the folder *CaseStudyMars_Data*, the others must be downloaded as explained in the notebooks.
 
 ### Contributors
 
