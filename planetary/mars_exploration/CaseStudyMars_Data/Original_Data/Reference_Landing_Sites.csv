@@ -1,0 +1,114 @@
+Longitude (180 degree E),Latitude (degree N),Number,Site name,Reference,DOI
+-33.22,19.13,Mars Pathfinder,Ares Vallis,"Golombek et al., 2012",10.1007/s11214-012-9916-y
+175.06,-14.64,MER-A (Spirit),Gusev crater,"Golombek et al., 2012",10.1007/s11214-012-9916-y
+-6.23,-2.06,MER-B (Opportunity),Meridiani Planum,"Golombek et al., 2012",10.1007/s11214-012-9916-y
+137.4239,-4.4868,MSL (Curiosity),Gale crater,"Golombek et al., 2012",10.1007/s11214-012-9916-y
+-76.4,-9.8,1,Melas Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-75.5,-5.5,2a,Western Candor Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-75.5,-5.5,2b,Western Candor Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-69.5,-11.6,3,Eastern Melas Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-62.5,-4.5,4a,Juventae Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-63.2,-4.8,4b,Juventae Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-51.1,-28.3,5,Ritchey crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-51,2.3,6,Xanthe Terra,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-47.3,8,7a,Northern Xanthe,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-47.2,6.9,7b,Northern Xanthe,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-45.3,11.4,7c,Northern Xanthe,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-43,7,8,ShalbatanaVallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-42.5,-13.4,9,Eos Chasma Alluvial,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-44,-49.7,10,Argyre,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-42,-56.3,11a,Argyre,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-37.6,-55.2,11b,Argyre,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-38,-10.7,12,Eos Chasma,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-36.6,-35.7,13,Hale crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-35.4,-3.8,14,Valles Marineris,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-35,-26.7,15a,Holden crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-34.9,-26.4,15b,Holden crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-34.9,-26.4,15c,Holden crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-34.4,-24,16a,Eberswalde crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-33,-23.8,16b,Eberswalde crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-33.3,-23.9,16c,Eberswalde crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-33,-23,16d,Eberswalde crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-32.2,22.9,17,Tiu Valles,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-27.5,-18.8,18,Ladon basin,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-26,-49,19,Wirtz crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-22.7,-11.7,20a,Margaritifer basin,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-21.9,-12.8,20b,Margaritifer basin,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-20.2,-23.6,21,Samara Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-21.1,24.5,22a,Mawrth Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-19.9,24.7,22b,Mawrth Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-19,24,22c,Mawrth Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-17.8,23.2,22d,Mawrth Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-20.6,24.9,22e,Mawrth Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-18.2,-1.6,23a,Iani Chaos,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-17.8,-2.6,23b,Iani Chaos,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-17.7,-2.1,23c,Iani Chaos,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-14.7,-13.1,24,Margaritifer Terra Chloride Site 10,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-8.6,21.5,25a,Becquerel crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-7.5,21.3,25b,Becquerel crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-8.4,-3.2,26,Chloride west of Miyamoto crater (site 17),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-7.6,-1.8,27a,"Miyamoto crater, Southwestern Meridiani (formerly Runcorn)","Grant et al., 2011",10.1016/j.pss.2010.06.016
+-7.7,-3.5,27b,"Miyamoto crater, Southwestern Meridiani (formerly Runcorn)","Grant et al., 2011",10.1016/j.pss.2010.06.016
+-7.4,-3.4,27c,"Miyamoto crater, Southwestern Meridiani (formerly Runcorn)","Grant et al., 2011",10.1016/j.pss.2010.06.016
+-6.2,-5.6,28,East Margaritifer Terra,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-6,8.3,29a,Meridiani Planum bench,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-6,7.9,29b,Meridiani Planum bench,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-5.5,8.4,29c,Meridiani Planum bench,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-5.6,-3.3,30a,South Meridiani Planum,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-5.4,-3.1,30b,South Meridiani Planum,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-4.6,6,31,Vernal crater (Southwest Arabia Terra),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-2.5,1.6,32,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-1.9,5.5,33,Northern Sinus Meridiani crater lake,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-1.2,8.9,34,West Arabia Terra,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-1.1,2.6,35,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+0.4,1.9,36a,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+3.3,3.1,36b,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+3.5,2.4,36c,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+3.7,0,37,East Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+4.5,-18.4,38,Chloride Site 15,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+6.7,2.4,39,Northern Sinus Meridiani,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+14,-49,40,Southern mid-latitude (SML) craters,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+46,-44,41,Hellas,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+73.4,-27.4,42a,Terby crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+74,-27.6,42b,Terby crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+74.1,-28,42c,Terby crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+74.5,21,43,Nili Fossae Trough,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+75.4,17.1,44a,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+76.7,16.1,44b,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+77.4,16.4,44c,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+78,16.3,44d,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+76.6,16.2,44e,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+77.1,17.8,44f,Northeast Syrtis Major,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+76,23,45,Nilo Syrtis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+77.6,18.4,46,Nili Fossae crater (Jezero),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+78.6,21.8,47,East Nili Fossae,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+78.8,21.7,48,Nili Fossae carbonate,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+78.9,21.9,49,Nili Fossae carbonate plains,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+79.5,14.2,50a,Western Isidis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+79.6,18,50b,Western Isidis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+81.2,-38.9,51a,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+82.7,-39.5,51b,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+84.4,-41.2,51c,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+85.6,-40.7,51d,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+85.8,-41.7,51e,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+86.8,-43.3,51f,Dao Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+103,70.5,52,Vastitas Borealis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+132.9,-5.1,53,Aeolis Region,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+137.4,-4.6,54a,Gale crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+137.6,-5.7,54b,Gale crater,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+146.5,-4.9,55,Northwestern slope valleys,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+156,-36,56a,South Terra Cimmeria,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+156,-35,56b,South Terra Cimmeria,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+157,10,57,Athabasca Vallis,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+168.7,1.4,58a,Elysium (Avernus Colles),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+170.6,-3.1,58b,Elysium (Avernus Colles),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+170.7,-3.1,58c,Elysium (Avernus Colles),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+172.5,0.2,58d,Elysium (Avernus Colles),"Grant et al., 2011",10.1016/j.pss.2010.06.016
+174.2,-35,59,Ariadnes Colles,"Grant et al., 2011",10.1016/j.pss.2010.06.016
+-6,-5.6,A,Eastern Margaritifer Terra,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+175,-14,B,Gusev crater,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+77.6,18.4,C,Jezero Crater,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+-21,24.5,D,Mawrth Valles Site 0,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+76.6,16.2,E,Northeast Syrtis Major,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+74.5,21,F,Nili Fossae Trough,"E2E-iSAG, 2012",10.1089/ast.2011.0805
+17,33.5,G,Ismenius Cavus,"E2E-iSAG, 2012",10.1089/ast.2011.0805

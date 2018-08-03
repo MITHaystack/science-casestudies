@@ -1,5 +1,5 @@
 <p align="left">
-  <img alt="Science Case Studies" src="https://github.com/MITHaystack/science-casestudies/blob/master/docs/images/science-casestudies_logo360.png"/> 
+  <img alt="Science Case Studies" src="docs/images/science-casestudies_logo360.png"/>
 </p>
 
 - Python Jupyter notebook repository with self-contained science case studies
