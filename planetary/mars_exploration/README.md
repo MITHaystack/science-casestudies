@@ -25,7 +25,7 @@ Scikit Discovery needs to be installed before running the notebooks, along with 
 
 We divided our work into seven notebooks, which perform an analysis for the entire planet at 20 pixels per degree (3 km per pixel at the equator) based on a rover similar to NASA's Mars 2020 rover. The notebooks must be run sequentially:
 
-- The notebooks [1a](CaseStudyMars_20ppd_1a_LandingAndTraverseConstraints.ipynb) and [1b](CaseStudyMars_20ppd_1b_ScientificTargets.ipynb) detail where to get the input data (some of them are available in the folder [Original_Data](/CaseStudyMars_Data/Original_Data), but most data must be downloaded manually), and convert them into a similar raster format.
+- The notebooks [1a](CaseStudyMars_20ppd_1a_LandingAndTraverseConstraints.ipynb) and [1b](CaseStudyMars_20ppd_1b_ScientificTargets.ipynb) detail where to get the input data (some of them are available in the folder [Original_Data](CaseStudyMars_Data/Original_Data), but most data must be downloaded manually), and convert them into a similar raster format.
 - The notebooks [2a](CaseStudyMars_20ppd_2a_FuzzyCombination_LandingConstraints.ipynb) and [2b](CaseStudyMars_20ppd_2b_FuzzyCombination_ScientificTargets.ipynb) combine the rasters together into a single raw favorability map.
 - The notebook [3](CaseStudyMars_20ppd_3_LandingEllipseUncertainty.ipynb) converts the raw favorability into a favorability by taking into account the uncertainty of the landing ellipse.
 - The notebook [4](CaseStudyMars_20ppd_4_Analysis.ipynb) provides some ways of analyzing the results, for instance by looking at the distribution of the scientific targets that can be reached during a mission.
@@ -33,11 +33,11 @@ We divided our work into seven notebooks, which perform an analysis for the enti
 
 ### Favorability maps
 
-We provide five maps produced by the notebooks in the folder [Results](/CaseStudyMars_Data/Results):
+We provide five maps produced by the notebooks in the folder [Results](CaseStudyMars_Data/Results):
 
-- One map of [landing favorability](/CaseStudyMars_Data/Results/Results_Favorability_Landing_25.tif), which takes into account the landing constraints only.
-- Two maps of scientific favorability, one based on [neighboring relationships](/CaseStudyMars_Data/Results/Results_Favorability_Scientific_Threshold_4_Scenarios_25_25.tif) between the scientific targets, and one based on [traverse paths]((/CaseStudyMars_Data/Results/Results_Favorability_Scientific_Paths_4_Scenarios_25_25.tif)) to the scientific targets. Neighboring relationships require some high-priority targets to be located at less than a given driving time from the landing site. Traverse paths are more restrictive: all the high-priority targets must be reachable in less than the given driving time. Neighboring relationships are more suitable for a global analysis of potential landing sites, whereas traverse paths are more suitable for detailed analysis of the accessibility of a site.
-- Two maps of selection favorability, one based on [neighboring relationships](/CaseStudyMars_Data/Results/Results_Favorability_Selection_Threshold_4_Scenarios_25_25.tif) between the scientific targets, and one based on [traverse paths]((/CaseStudyMars_Data/Results/Results_Favorability_Selection_Paths_4_Scenarios_25_25.tif)) to the scientific targets. These maps combine the landing and scientific favorability maps.
+- One map of [landing favorability](CaseStudyMars_Data/Results/Results_Favorability_Landing_25.tif), which takes into account the landing constraints only.
+- Two maps of scientific favorability, one based on [neighboring relationships](CaseStudyMars_Data/Results/Results_Favorability_Scientific_Threshold_4_Scenarios_25_25.tif) between the scientific targets, and one based on [traverse paths]((CaseStudyMars_Data/Results/Results_Favorability_Scientific_Paths_4_Scenarios_25_25.tif)) to the scientific targets. Neighboring relationships require some high-priority targets to be located at less than a given driving time from the landing site. Traverse paths are more restrictive: all the high-priority targets must be reachable in less than the given driving time. Neighboring relationships are more suitable for a global analysis of potential landing sites, whereas traverse paths are more suitable for detailed analysis of the accessibility of a site.
+- Two maps of selection favorability, one based on [neighboring relationships](CaseStudyMars_Data/Results/Results_Favorability_Selection_Threshold_4_Scenarios_25_25.tif) between the scientific targets, and one based on [traverse paths]((CaseStudyMars_Data/Results/Results_Favorability_Selection_Paths_4_Scenarios_25_25.tif)) to the scientific targets. These maps combine the landing and scientific favorability maps.
 
 The following Python code is a minimal example showing how to open a map using GDAL and display it using matplotlib:
 ```
