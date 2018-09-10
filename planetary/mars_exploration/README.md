@@ -77,16 +77,18 @@ We welcome any further use of or contribution to this project. Any question or c
 
 If you use or further develop this work, please cite:
 
-*Rongier G., Pankratius V. (2018) Computer-aided exploration of the Martian geology. Earth and Space Science, 5. DOI: 10.1029/2018EA000406*
+Rongier G., & Pankratius V. (2018). Computer‐aided exploration of the Martian geology. *Earth and Space Science*, 5, 393–407. DOI: [10.1029/2018EA000406](https://doi.org/10.1029/2018EA000406)
 
 ```
-@article{rongier_computer-aided_2018,
-    title = {Computer-aided exploration of the Martian geology},
-    volume = {5},
-    doi = {10.1029/2018EA000406},
-    journal = {Earth and Space Science},
+@article{doi:10.1029/2018EA000406,
     author = {Rongier, Guillaume and Pankratius, Victor},
-    year = {2018}
+    year = {2018},
+    title = {Computer-Aided Exploration of the Martian Geology},
+    journal = {Earth and Space Science},
+    volume = {5},
+    number = {8},
+    pages = {393-407},
+    doi = {10.1029/2018EA000406},
 }
 ```
 
